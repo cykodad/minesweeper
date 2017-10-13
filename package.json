@@ -11,11 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/cykodad/minesweeper.git"
   },
-  "keywords": [
-    "minesweeper",
-    "javascript",
-    "codeacadamy"
-  ],
+  "keywords": ["minesweeper", "javascript", "codeacadamy"],
   "author": "Mehmet Bulut",
   "license": "ISC",
   "bugs": {
@@ -26,6 +22,15 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.0",
     "eslint": "^4.8.0",
-    "eslint-config-google": "^0.9.1"
+    "eslint-config-airbnb": "^16.0.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "prettier-eslint": "^8.2.1"
+  },
+  "prettier": {
+    "eslintIntegration": true,
+    "singleQuote": true
   }
 }
