@@ -4,6 +4,8 @@
     "no-console": "off",
     "arrow-parens": "off",
     "no-plusplus": "off",
-    "prefer-const": "off"
+    "prefer-const": "off",
+    "no-param-reassign": "off",
+    "comma-dangle": "off"
   }
 }
