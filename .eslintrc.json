@@ -6,6 +6,8 @@
     "no-plusplus": "off",
     "prefer-const": "off",
     "no-param-reassign": "off",
-    "comma-dangle": "off"
+    "comma-dangle": "off",
+    "no-underscore-dangle": "off",
+    "function-paren-newline": "off"
   }
 }
